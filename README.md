@@ -2,7 +2,6 @@
 Resume:
 -------------------------
 
-**Symfony - Dispatcher, Routing**
 This project was based on S.O.L.I.D principles and clean code.
 
 I choose not use any framework to develop because the focus was just write a simple library, so i tried to keep it slim.
